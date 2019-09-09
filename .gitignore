@@ -1,0 +1,19 @@
+### VisualStudioCode
+.vscode/*
+
+### JetBrains
+.idea/
+*.ipr
+*.iml
+*.iws
+
+### Eclipse
+.classpath
+.project
+.settings/
+
+### Other
+.DS_Store
+.clover
+*.log
+out/
